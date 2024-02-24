@@ -8,7 +8,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL - [https://product-preview-card-challenge-fm.netlify.app/](https://product-preview-card-challenge-fm.netlify.app/)]
+- Live Site URL - [https://product-preview-card-challenge-fm.netlify.app/](https://product-preview-card-challenge-fm.netlify.app/)
 
 # Author 
 
