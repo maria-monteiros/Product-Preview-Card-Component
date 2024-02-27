@@ -3,7 +3,16 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+###Screenshot
+
+- Desktop
+
 ![Screenshot 2024-02-24 at 19-41-31 Frontend Mentor Product preview card component](https://github.com/maria-monteiros/Product-Preview-Card-Component/assets/104790525/d1bc0b32-2161-4829-9ace-1b7c058a12fc)
+
+- Mobile
+
+![Screenshot mobile](https://github.com/maria-monteiros/Product-Preview-Card-Component/assets/104790525/6f3fcd08-6378-418f-88e9-c06403fa09c9)
+
 
 
 ### Links
